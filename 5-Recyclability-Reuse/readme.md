@@ -1,4 +1,4 @@
-### Documents that you are going to find in this folder are:
+### Documents that you are going to find in this folder are thus concerning the recycalbility and reuse:
 -
 -
 
