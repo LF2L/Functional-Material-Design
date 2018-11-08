@@ -1,15 +1,38 @@
+# Intrinsic Material Properties Group
 
-# Directory structure
+## Team
+
+| Name            | Background          | Nationality |
+|-----------------|---------------------|-------------|
+| e.g: James Bond | Engineer? Designer? | UK          |
+|                 |                     |             |
+|                 |                     |             |
+|                 |                     |             |
+
+
+## Wiki
+Your wiki page is : [Intrinsic Material Properties](https://github.com/LF2L/Functional-Material-Design/wiki/Intrinsic-Material-Properties)
+
+Your project wiki will contain the following sections by default:
+
+- `Presentation of the Subject`: You present the subject
+- `Bibliography / Webography`: You can put videos, links and different internet sources of information for the development of the project.
+- `Final Documents`: 
+  - `Video`: Intended to put the final video of the project.
+  - `Tutorial Machine`: Section intended to put a tutorial of the machine that you used during the developement of the project.
+
+
+
+## Directory structure
 Your project will contain the following directories by default:
 
-## `/docs`
-Contains the files .docx .pdf that you produce 
-
-- `settings.php`: Contains master module configuration and any other configuration that will be common to all environments for the site. This file will be under version control so do not put sensitive or local environment information in it.
-- `secret.settings.php`: Contains database settings for the environment and any other sensitive configuration settings. **Important**: Be sure to configure your database settings in this file before you build your project. This file will not be under version control for security reasons.
-- `local.settings.php`: Contains local configuration overrides for the current environment. This file will not be under version control as it contains environment specific settings.
+### `/docs`
+Contains the files  `.docx` or `.pdf` that you produce/need during the development of your project 
 
 ## `/figures`
-Holds files .jpg that will be placed into the Drupal root directory in the build. By default it will contain the following files:
+It holds the picture files (`.jpg .pgn`) that files that you. You can reuse this pictures in the wiki page
+
+- **Figures names**: For practices purposes, the name of the picture must be `fig-#.jpg` (or `fig-#.png`)  where `#.jpg` is a **number**, e.g: `fig-1.jpg`.
+
 
 
