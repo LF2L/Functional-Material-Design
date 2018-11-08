@@ -29,10 +29,10 @@ Your project will contain the following directories by default:
 ### `/docs`
 Contains the files  `.docx` or `.pdf` that you produce/need during the development of your project 
 
-## `/figures`
+### `/figures`
 It holds the picture files (`.jpg .pgn`) that files that you. You can reuse this pictures in the wiki page
 
 - **Figures names**: For practices purposes, the name of the picture must be `fig-#.jpg` (or `fig-#.png`)  where `#.jpg` is a **number**, e.g: `fig-1.jpg`.
-
+- **Figures dimmensions**: Figures must be max size `2000x2000px` 
 
 
