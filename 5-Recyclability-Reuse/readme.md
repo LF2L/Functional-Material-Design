@@ -5,9 +5,9 @@
 | Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
   Charlotte       | Design | CharlotteBapst      |
-| Christelle
-| Tiago                  |             |
-| Juan            |Ing. Industriel      | juanipalomas     |
+| Christelle |         Design                | Christellebernardo         
+| Tiago                   |   Génie Industriele          |TiagoLima96
+| Juan                 |                     |             |
 | Mouna             |                     |    Mouna72         |
 
 
