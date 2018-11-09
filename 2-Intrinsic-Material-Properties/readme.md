@@ -9,7 +9,7 @@
 | Fatouma Abdi     | Designer Graphic    | @fatouma17       |
 | Gabriel Masalskas| Engineer Industriel | @GMasalskas      |
 | Arthur Alexandre | Engineer Industriel | @GMasalskas      |
-| Felipe Florez    | Designer            | @dfelipef      |
+| Felipe Florez    | Designer            | @dfelipef        |
 
 
 ## Wiki
