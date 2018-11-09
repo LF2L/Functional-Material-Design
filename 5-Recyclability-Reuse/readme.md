@@ -4,10 +4,11 @@
 
 | Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
-| e.g: James Bond | Engineer? Designer? | @JB?        |
-|                 |                     |             |
-|                 |                     |             |
-|                 |                     |             |
+  Charlotte       | Engineer? Designer? | @JB?        |
+| Christelle
+| Tiago                   |             |
+| Juan                 |                     |             |
+| Mouna             |                     |    Mouna72         |
 
 
 ## Wiki
