@@ -6,7 +6,7 @@
 |-----------------|---------------------|-------------|
   Charlotte       | Design | CharlotteBapst      |
 | Christelle
-| Tiago                   |             |TiagoLima96
+| Tiago                   |   Génie Industrielle          |TiagoLima96
 | Juan                 |                     |             |
 | Mouna             |                     |    Mouna72         |
 
