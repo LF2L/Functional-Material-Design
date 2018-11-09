@@ -19,6 +19,8 @@ Your project wiki will contain the following sections by default:
 
 - `Presentation of the Subject`: You present the subject
 - `Bibliography / Webography`: You can put videos, links and different internet sources of information for the development of the project.
+http://documents.irevues.inist.fr/bitstream/handle/2042/33878/ANM_2002_159.pdf?sequence=1
+https://curien-uneviepourlascience.cnes.fr/sites/default/files/drupal/201611/default/hc_ccm-nouveaux-materiaux-16111988.pdf
 - `Final Documents`: 
   - `Video`: Intended to put the final video of the project.
   - `Tutorial Machine`: Section intended to put a tutorial of the machine that you used during the developement of the project.
