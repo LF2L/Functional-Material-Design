@@ -6,8 +6,8 @@
 |-----------------|---------------------|-------------|
   Charlotte       | Design | CharlotteBapst      |
 | Christelle
-| Tiago                   |   Génie Industriele          |TiagoLima96
-| Juan                 |                     |             |
+| Tiago                  |             |
+| Juan            |Ing. Industriel      | juanipalomas     |
 | Mouna             |                     |    Mouna72         |
 
 
