@@ -2,9 +2,9 @@
 
 ## Team
 
-| Name            | Background          | Nationality |
+| Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
-| e.g: James Bond | Engineer? Designer? | UK          |
+| e.g: James Bond | Engineer? Designer? | @JB?        |
 |                 |                     |             |
 |                 |                     |             |
 |                 |                     |             |
