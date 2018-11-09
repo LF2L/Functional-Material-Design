@@ -5,10 +5,15 @@
 | Name             | Background          | User name Github |
 |---------------- -|---------------------|-------------     |
 | Laura Passone    | Engineer Industriel | @laurapassone    |
+|---------------- -|---------------------|-------------     |
 | Soledad Gili     | Engineer Industriel | @soledadarg      |
+|---------------- -|---------------------|-------------     |
 | Fatouma Abdi     | Designer Graphic    | @fatouma17       |
+|---------------- -|---------------------|-------------     |
 | Gabriel Masalskas| Engineer Industriel | @GMasalskas      |
+|---------------- -|---------------------|-------------     |
 | Arthur Alexandre | Engineer Industriel | @GMasalskas      |
+|---------------- -|---------------------|-------------     |
 | Felipe Florez    | Designer            | @dfelipef        |
 
 
