@@ -6,7 +6,7 @@
 |-----------------|---------------------|-------------|
   Charlotte       | Design | CharlotteBapst      |
 | Christelle
-| Tiago                   |             |
+| Tiago                   |             |TiagoLima96
 | Juan                 |                     |             |
 | Mouna             |                     |    Mouna72         |
 
