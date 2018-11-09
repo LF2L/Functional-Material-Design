@@ -4,7 +4,7 @@
 
 | Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
-  Charlotte       | Engineer? Designer? | @JB?        |
+  Charlotte       | Design | CharlotteBapst      |
 | Christelle
 | Tiago                   |             |
 | Juan                 |                     |             |
