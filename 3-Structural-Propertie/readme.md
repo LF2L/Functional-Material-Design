@@ -1,4 +1,4 @@
-# Intrinsic Material Properties Group
+# Structural Properties Group
 
 ## Team
 
