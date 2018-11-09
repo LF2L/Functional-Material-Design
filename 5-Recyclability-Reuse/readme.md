@@ -1,4 +1,4 @@
-# Intrinsic Material Properties Group
+# Recyclability & Reuse Group
 
 ## Team
 

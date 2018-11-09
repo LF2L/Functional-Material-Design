@@ -1,4 +1,4 @@
-# Intrinsic Material Properties Group
+# Electronic Added Properties and Control Group
 
 ## Team
 
