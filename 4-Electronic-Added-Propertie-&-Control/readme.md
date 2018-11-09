@@ -4,10 +4,11 @@
 
 | Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
-| e.g: James Bond | Engineer? Designer? | @JB?        |
-|                 |                     |             |
-|                 |                     |             |
-|                 |                     |             |
+|CHEMPAUX Camille | Designer            | @Camillisme |
+|OUKICHA Najwa    |                     |             |
+|CARDENAS Diana   |                     |             |
+|BRENELLI Thomas  |                     |             |
+|SILVA Alejo      |                     |             |
 
 
 ## Wiki
