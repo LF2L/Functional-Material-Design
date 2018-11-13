@@ -5,7 +5,7 @@
 | Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
 |CHEMPAUX Camille | Designer            | @Camillisme |
-|OUKICHA Najwa    |                      @Najwaoukicha       |
+|OUKICHA Najwa    | ,k,kkl               @Najwaoukicha
 |CARDENAS Diana   |                     |             |
 |BRENELLI Thomas  |                     |             |
 |SILVA Alejo      |                     |             |
