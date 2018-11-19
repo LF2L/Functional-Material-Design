@@ -6,8 +6,8 @@
 |-----------------|---------------------|-------------|
 |CHEMPAUX Camille | Designer            | @Camillisme |
 |OUKICHA Najwa    | Mécanique           |@Najwaoukicha|
-|CARDENAS Diana   | Industrial Eng.     |@thomasbrenelli|
-|BRENELLI Thomas  |                     |             |
+|CARDENAS Diana   |                     |             |
+|BRENELLI Thomas  | Industrial Eng.     |@thomasbrenelli             |
 |SILVA Alejo      |                     |             |
 
 
