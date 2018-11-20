@@ -2,13 +2,13 @@
 
 ## Team
 
-| Name            | Background          | User name Github |
-|-----------------|---------------------|-------------|
-| e.g: James Bond | Engineer? Designer? | @JB?        |
-|                 |                     |             |
-|                 |                     |             |
-|                 |                     |             |
-
+| Name            | Background                    | User name Github |
+|-----------------|-------------------------------|------------------|
+| Margaux Stentz  | Packaging                     |                  |
+| Soraya Rabhi    | Génie mécanique et productique|                  |
+| Natalia Camargo | marketing                     |                  |
+| Jardel Batista  | Genie Industriel              |                  |
+| Ali El Akroud   | Génie mécanique               |                  |
 
 ## Wiki
 Your wiki page is : [Structural Properties](https://github.com/LF2L/Functional-Material-Design/wiki/Structural-Properties)
