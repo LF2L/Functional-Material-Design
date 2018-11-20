@@ -6,7 +6,7 @@
 |-----------------|-------------------------------|------------------|
 | Margaux Stentz  | Packaging                     |                  |
 | Soraya Rabhi    | Génie mécanique et productique|                  |
-| Natalia Camargo | marketing                     |                  |
+| Natalia Camargo | Marketing                     |                  |
 | Jardel Batista  | Genie Industriel              |                  |
 | Ali El Akroud   | Génie mécanique               |                  |
 
