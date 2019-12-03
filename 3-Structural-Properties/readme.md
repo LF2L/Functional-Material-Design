@@ -4,11 +4,7 @@
 
 | Name            | Background                    | User name Github |
 |-----------------|-------------------------------|------------------|
-| Margaux Stentz  | Packaging                     |                  |
-| Soraya Rabhi    | Génie mécanique et productique|                  |
-| Natalia Camargo | Marketing                     |                  |
-| Jardel Batista  | Genie Industriel              |                  |
-| Ali El Akroud   | Génie mécanique               |                  |
+
 
 ## Wiki
 Your wiki page is : [Structural Properties](https://github.com/LF2L/Functional-Material-Design/wiki/Structural-Properties)
