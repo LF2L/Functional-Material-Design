@@ -4,11 +4,6 @@
 
 | Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
-|CHEMPAUX Camille | Designer            | @Camillisme |
-|OUKICHA Najwa    | Mécanique           |@Najwaoukicha|
-|CARDENAS Diana   | Engineer MSC. Gestion|@dianamakc   |
-|BRENELLI Thomas  | Industrial Eng.     |@thomasbrenelli|
-|SILVA Alejo      | Industrial Eng.     |@Bendit0r    |
 
 
 ## Wiki
