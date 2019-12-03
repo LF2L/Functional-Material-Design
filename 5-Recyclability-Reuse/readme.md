@@ -4,12 +4,7 @@
 
 | Name            | Background          | User name Github |
 |-----------------|---------------------|-------------|
-  Charlotte       | Design | CharlotteBapst      |
-| Christelle |         Design                | Christellebernardo         
-| Tiago                   |   Génie Industriele          |TiagoLima96
-| Juan                 |                     |             |
-| Mouna             |                     |    Mouna72        
-|Camille            |  Marketing
+
 
 
 ## Wiki
