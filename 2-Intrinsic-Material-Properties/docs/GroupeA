@@ -41,3 +41,14 @@ Matériaux intelligents :
  
 
 Matériaux dont les propriétés changent suite à une sollicitation extérieure 
+
+
+Matériaux piézoélectriques :
+
+Les matériaux piézoélectriques sont regroupés en deux catégories. Le premier groupe est celui des matériaux qui se polarisent électriquement sous 
+l’action d’une contrainte mécanique, c’est l’effet piézoélectrique direct. La charge électrique obtenue est proportionnelle à la contrainte appliquée.
+Le quartz est un exemple commun de des matériaux piézoélectriques. Il peut par exemple être utilisé pour réaliser un capteur de force, si une force est
+appliquée sur le cristal de quartz, sa charge peut être amplifiée artificiellement afin d’obtenir la valeur de la force initiale. Cela est relativement 
+simple à faire puisque la relation entre ces deux grandeurs est linéaire.
+
+Certains matériaux utilisent l’effet piézoélectrique inverse, ils se déforment quand un champ électrique leur est appliqué.
